@@ -3,4 +3,4 @@
 #!desc=Publisher:ikangi
 [Rule]
 DOMAIN-SUFFIX,xxx.coxxx,PROXY
-DOMAIN-KEYWORD,xxx.coxxx,PROXY
+DOMAIN-KEYWORD,bing,台湾节点

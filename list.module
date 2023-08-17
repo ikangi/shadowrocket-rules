@@ -1,0 +1,6 @@
+#!name=list
+#!homepage=https://github.com/ikangi/shadowrocket-rules
+#!desc=Publisher:ikangi
+[Rule]
+DOMAIN-SUFFIX,xxx.coxxx,PROXY
+DOMAIN-KEYWORD,xxx.coxxx,PROXY
